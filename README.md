@@ -1,7 +1,7 @@
 
-          Boas vindas ao meu perfil 💙💙
+ **Boas vindas ao meu perfil 💙💙**
 
-Meu nome é vinicius Bragança
+Meu nome é **vinicius Bragança**
 
 Estou estudando na Alura
 
